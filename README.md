@@ -1,6 +1,6 @@
 # Hello! Assalamu alaikum, I'm Nurmuhammed (TheChefMamii) 
 
-### Aircraft Maintenance Student | Building Frankenstein Machines at Home | Vibe Coder |
+### Aircraft Avionics Student | Building Frankenstein Machines at Home | Vibe Coder |
 *(also: certificated Rick Sanchez fan)*
 
 I'm studying aircraft avionics, but most of my free time goes into DIY projects

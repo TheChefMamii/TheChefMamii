@@ -1,29 +1,31 @@
-# Hi, I'm Mami (TheChefMamii) 👋
+# Hello! Assalamu alaikum, I'm Nurmuhammed (TheChefMamii) 
 
-### 🛠️ Aircraft Maintenance Student | Maker | Vibe Coder
-I'm an aircraft maintenance student by day and a **vibe coder** by night. I believe that coding isn't just about logic—it's about the feeling and the flow of the project. Currently bridging the gap between heavy mechanics and digital creation.
+### Aircraft Maintenance Student | Building Frankenstein Machines at Home | Vibe Coder |
+*(also: certificated Rick Sanchez fan)*
 
----
-
-## 🚀 What I'm Cooking
-
-* **C.A.L (Chefs Atölye Laboratuvarı):** My home-base workshop for 3D printing and circuit bending.
-* **Aviation Tech:** Mastering the art of keeping massive birds in the sky.
+I'm studying aircraft avionics, but most of my free time goes into DIY projects
 
 ---
 
-## 📚 Learning Path
+## What I'm Cooking 🥘🔥
 
-I'm currently on a journey to master the digital craft. I don't just write code; I build experiences.
-* **Languages in Progress:** * 🌐 **Web:** HTML5 & CSS3
-  * 🤖 **Hardware:** C++ & Arduino 
-  * 🐍 **Automation:** Python
+* **DIY Electronics:** Fixing, rebuilding, and sometimes breaking electronics for fun.
+* **Circuits:** I love building and researching circuits — figuring out how things working.
+* **Parts Swapping:** Taking parts out of old devices and giving them a second life in something new.
 
 ---
 
-## 🛠️ Hardware Stack
+## What i am trying to learn?
+
+Right now I'm focused on using AI more efficiently, learning how to mod and reverse-engineer device firmware, and actually understanding code instead of just copy-pasting it.
+
+---
+
+##  Hardware Stack
 
 * **3D Printing:** Creality Ender V3
+* **Microcontrollers:** Raspberry Pi Pico, Arduino Uno, Esp 32E 
+* **Currently building:** A DIY force-feedback steering wheel from a broken Logitech wheel and trying to save a PS3 with a YLOD problem.
 
 ---
 

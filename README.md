@@ -7,7 +7,6 @@ I'm studying aircraft avionics, but most of my free time goes into DIY projects
 
 ---
 
-![Cooking](https://media1.tenor.com/m/N9KXo0VYOq0AAAAd/sunnyfication.gif)
 ## What I'm Cooking 🥘🔥 
 
 * **DIY Electronics:** Fixing, rebuilding, and sometimes breaking electronics for fun.

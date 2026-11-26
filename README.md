@@ -24,9 +24,9 @@ Right now I'm focused on using AI more efficiently, learning how to mod and reve
 
 ##  Hardware Stack
 
-* **3D Printing:** Creality Ender V3
-* **Microcontrollers:** Raspberry Pi Pico, Arduino Uno, Esp 32E 
-* **Currently building:** A DIY force-feedback steering wheel from a broken Logitech wheel and trying to save a PS3 with a YLOD problem.
+* **3D Printing:** Creality Ender 3 V3
+* **Microcontrollers:** Raspberry Pi Pico, Arduino Uno, Esp 32-E, Esp-32-S3, Esp8266 , T3-GEM-01.
+* **Currently building:** An on-device Edge AI project on the **T3-GEM-01** for the T3 Gemstone Challenge, alongside my DIY force-feedback Logitech steering wheel mod.
 
 ---
 
